@@ -21,7 +21,7 @@
     "48": "/extras/icon48.png",
     "128": "/extras/icon128.png"
   },
-  "host_permissions": ["https://scratch.mit.edu/"],
+  "host_permissions": ["https://turbowarp.org/"],
   "browser_specific_settings": {
     "gecko": {
       "id": "info@scratchtools.app",
